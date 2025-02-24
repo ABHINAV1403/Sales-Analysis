@@ -8,3 +8,6 @@ Performance Insights: Identifies top-performing and underperforming categories t
 Interactive Visuals: Users can filter data by category, date range, and other parameters for deeper exploration.
 
 This dashboard helps businesses understand sales patterns, track trends, and make better decisions using interactive visuals in Tableau.
+
+
+https://public.tableau.com/app/profile/abhinav.gogula/viz/superstore_sales_17403968240020/Dashboard1
